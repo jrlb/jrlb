@@ -44,3 +44,4 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'comfortable_mexican_sofa', '~> 1.9.0'
+gem 'rails_12factor'
