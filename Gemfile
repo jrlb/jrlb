@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.0.0'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
@@ -45,3 +47,4 @@ end
 # gem 'debugger', group: [:development, :test]
 gem 'comfortable_mexican_sofa', '~> 1.9.0'
 gem 'rails_12factor'
+gem 'newrelic_rpm'

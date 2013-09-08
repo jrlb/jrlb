@@ -82,6 +82,7 @@ GEM
     mime-types (1.25)
     minitest (4.7.5)
     multi_json (1.7.9)
+    newrelic_rpm (3.6.6.147)
     paperclip (3.5.1)
       activemodel (>= 3.0.0)
       activesupport (>= 3.0.0)
@@ -152,6 +153,7 @@ DEPENDENCIES
   comfortable_mexican_sofa (~> 1.9.0)
   jbuilder (~> 1.2)
   jquery-rails
+  newrelic_rpm
   pg
   rails (= 4.0.0)
   rails_12factor
